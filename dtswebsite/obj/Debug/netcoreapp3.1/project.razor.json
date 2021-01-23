@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/DtsWebsite/DtsWebsite.csproj",
+  "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/dtswebsite/dtswebsite.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14389,40 +14389,40 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "DtsWebsite",
+  "RootNamespace": "dtswebsite",
   "Documents": [
     {
-      "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/DtsWebsite/Views/Shared/_Layout.cshtml",
+      "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/dtswebsite/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/DtsWebsite/Views/Home/Privacy.cshtml",
+      "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/dtswebsite/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/DtsWebsite/Views/_ViewImports.cshtml",
+      "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/dtswebsite/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/DtsWebsite/Views/_ViewStart.cshtml",
+      "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/dtswebsite/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/DtsWebsite/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/dtswebsite/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/DtsWebsite/Views/Shared/Error.cshtml",
+      "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/dtswebsite/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/DtsWebsite/Views/Home/Index.cshtml",
+      "FilePath": "/Users/stevengalarza/Projects/platzi/sitiowebdts/dtswebsite/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
